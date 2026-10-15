@@ -7,9 +7,6 @@ ENV/
 # Variáveis de Ambiente e Chaves de API
 .env
 
-# Pasta de Imagens/Assets (conforme solicitado)
-imgs/
-
 # Byte-compiled / Arquivos de cache do Python
 __pycache__/
 *.py[cod]
