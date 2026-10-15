@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Clone do jogo Flappy Bird usando Pygame.
-=======
 # Clone do Jogo Flappy Bird
 
 Clone do jogo simples Flappy Bird, usando a biblioteca Pygame.
@@ -74,4 +71,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## Licença
 
 Este projeto está sob a licença MIT.
->>>>>>> 1e5359b (Atualização do arquivo README.md e ajustes no código)
